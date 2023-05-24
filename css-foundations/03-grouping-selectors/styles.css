@@ -1,0 +1,11 @@
+.click{
+    color: white;
+    background-color: black;
+    font-size: 32px;
+}
+
+.no-click{
+    color: black;
+    background-color: yellow;
+    font-size: 32px;
+}
